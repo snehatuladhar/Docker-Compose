@@ -1,1 +1,1 @@
-This is an accompaying demo project for a "Docker in 1 hour" crash course on YouTube: https://www.youtube.com/@TechWorldwithNana
+Creating a Docker Image and Pushing it to Amazon ECR, and Using Docker Compose to Create an Nginx Image Forwarding to a Backend Server
